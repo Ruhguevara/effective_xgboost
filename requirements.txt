@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+notebook
+xgboost
+scikit-learn
+feature-engine
+dtreeviz
